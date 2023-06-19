@@ -1,0 +1,26 @@
+h1{
+    font-size: 60px;
+    margin: 40px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#ref,#ref1{
+
+    border: 2px soild black;
+    border-radius: 0px;
+    background-color: darkgray;
+    height: 50px;
+    width:200px;
+    margin: 50px;
+    font-size: 30px;
+}
+

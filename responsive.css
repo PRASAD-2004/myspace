@@ -1,0 +1,16 @@
+@media screen and (max-width:1041px){
+button{
+        font-size: 30px;
+        background-color: pink;
+        height: 50px;
+        width: 90px;
+        border-radius: 30%;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin: 2px;
+        padding: 40px;
+    
+}
+}
